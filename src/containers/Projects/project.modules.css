@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  width: 90vw;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 55px;
+}
+
+.buttons {
+  display: flex;
+  margin: 30px;
+  justify-content: space-evenly;
+}

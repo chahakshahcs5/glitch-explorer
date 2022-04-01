@@ -1,0 +1,26 @@
+.card {
+  width: 250px;
+  height: 350px;
+  max-height: 500px;
+  max-width: 345px;
+  cursor: pointer;
+  flex-basis: 20%;
+  margin: 30px;
+}
+
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transform: scale(1.01);
+}
+
+.MuiCardHeader-title {
+  font-size: 18px !important;
+}
+
+.MuiCardHeader-subheader {
+  font-size: 13px !important;
+}
+
+.action-btn {
+  margin-right: 30px;
+}
